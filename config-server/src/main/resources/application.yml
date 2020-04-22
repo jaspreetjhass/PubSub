@@ -1,0 +1,18 @@
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/jaspreetjhass/Configuration_Files.git 
+          basedir: C:/Users/hp/Documents/localRepo/
+          #basedir: /home/ubuntu/localRepo/
+          default-label: master
+          search-paths:
+          - pubsub/admintool-composite/
+          - pubsub/pubsub-audit-write/  
+          
+server:
+  port: 8888

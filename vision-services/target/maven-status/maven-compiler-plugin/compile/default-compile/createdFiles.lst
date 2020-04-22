@@ -1,0 +1,9 @@
+com\example\demo\models\MtnDetail$MtnDetailBuilder.class
+com\example\demo\controllers\B2BController.class
+com\example\demo\VisionServicesApplication.class
+com\example\demo\models\B2BServiceRequest$B2BServiceRequestBuilder.class
+com\example\demo\models\B2BServiceRequest.class
+com\example\demo\models\B2BServiceResponse$B2BServiceResponseBuilder.class
+com\example\demo\models\MtnDetail.class
+com\example\demo\services\B2BService.class
+com\example\demo\models\B2BServiceResponse.class
